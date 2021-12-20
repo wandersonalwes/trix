@@ -1,0 +1,9 @@
+{
+  "name": "trix",
+  "version": "1.0.0",
+  "description": "Automation for OLX",
+  "main": "index.js",
+  "repository": "https://github.com/wandersonalwes/trix.git",
+  "author": "Wanderson Alves",
+  "license": "MIT"
+}
