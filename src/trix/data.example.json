@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "email": "",
+      "password": "",
+      "published": false
+    }
+  ],
+  "products": [
+    {
+      "name": "",
+      "description": "",
+      "price": "",
+      "categories": [],
+      "types": [],
+      "checkboxs": [],
+      "cep": "",
+      "images": [],
+      "published": true
+    }
+  ]
+}

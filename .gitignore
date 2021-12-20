@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+src/trix/data*.json
+!src/trix/data.example.json
+src/trix/uploads/*
+!src/trix/uploads/.gitkeep
